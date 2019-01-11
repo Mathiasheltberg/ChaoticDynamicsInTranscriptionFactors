@@ -1,5 +1,5 @@
 clear all; close all; clc
-
+%%%% This creates figures like the ones from Fig 3
 Ms1 = zeros(10,11);
 Ms2 = zeros(10,11);
 Ms3 = zeros(10,11);
